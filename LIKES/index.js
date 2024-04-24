@@ -27,7 +27,7 @@ function likes(cantidad) {
 
     else{
     cantidad = cantidad / M;
-    cantidad = Math.floor(cantidad);;
+    cantidad = Math.floor(cantidad);
     return cantidad + 'M';
     }
     
